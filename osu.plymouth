@@ -1,0 +1,13 @@
+[Plymouth Theme]
+Name=OSU
+Description=Operating System U default theme
+ModuleName=two-step
+
+[two-step]
+ImageDir=/usr/share/plymouth/themes/osu
+HorizontalAlignment=.5
+VerticalAlignment=.5
+Transition=none
+TransitionDuration=0.0
+BackgroundStartColor=0xeeeeee
+BackgroundEndColor=0xeeeeee
