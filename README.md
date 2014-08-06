@@ -8,14 +8,14 @@ This is the default version of Operating System U boot screen.
 	sudo mkdir /usr/share/plymouth/themes/osu
 	sudo cp -av * /usr/share/plymouth/themes/osu/
 
-	sudo plymouth-set-default-theme osu
+	sudo plymouth-set-default-theme -R osu
 	sudo update-initramfs -u
 
 ##Switching##
 
 Switching between the two installed themes can be easily accomplished by:
 
-	sudo plymouth-set-default-theme osu
+	sudo plymouth-set-default-theme -R osu
 	sudo update-initramfs -u
 
 
