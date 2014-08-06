@@ -14,6 +14,7 @@ This is the default version of Operating System U boot screen.
 ##Switching##
 
 Switching between the two installed themes can be easily accomplished by:
+
 	sudo plymouth-set-default-theme osu
 	sudo update-initramfs -u
 
