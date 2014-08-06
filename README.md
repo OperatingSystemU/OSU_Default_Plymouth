@@ -1,8 +1,6 @@
 #Operating System U boot screen#
 
-This is a simplified version of Operating System U boot screen.
-
-This is a Ubuntu-derived work.
+This is the default version of Operating System U boot screen.
 
 ##Installation##
 	git clone https://github.com/awmrozek/OSU_Default_Plymouth.git
